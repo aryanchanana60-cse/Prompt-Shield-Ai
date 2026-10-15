@@ -1,1 +1,3 @@
 uvicorn
+joblib
+scikit-learn
